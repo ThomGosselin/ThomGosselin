@@ -1,5 +1,6 @@
-# 💫 About Me:
+# 💫 About Me / À Propos de moi:
 I am a web programmer. Currently working at BZ Inc in Quebec City, Canada. I love programming web interface and video games
+Je suis programmeur web. Travaille actuellement chez BZ Inc à Québec, Canada. J'adore programmer des interfaces web et des jeux vidéo
 
 
 ## 🌐 Socials:
