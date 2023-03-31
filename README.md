@@ -18,5 +18,3 @@ Je suis programmeur web. Travaille actuellement chez BZ Inc à Québec, Canada. 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thomswim360&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
